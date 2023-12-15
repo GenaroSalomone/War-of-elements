@@ -40,7 +40,7 @@ Here is a step-by-step guide on how to set up the project:
     FLASK_APP='run.py'
     GOOGLE_CLIENT_ID=<your-google-client-id>
     ```
-Please replace 'your-secret-key' and 'your-google-client-id' with your actual keys. Remember not to share these keys publicly. For the `GOOGLE_CLIENT_ID`, you need to create a project and link it to localhost:3000. [You can follow the guide here.](https://developers.google.com/identity/gsi/web/guides/get-google-api-clientid)
+Please replace 'your-secret-key' and 'your-google-client-id' with your actual keys. For the `GOOGLE_CLIENT_ID`, you need to create a project and link it to localhost:3000. [You can follow the guide here.](https://developers.google.com/identity/gsi/web/guides/get-google-api-clientid)
 To generate a secure secret key, you can use a password generator like [RandomKeyGen](https://randomkeygen.com/).
 
 ## Project Overview
