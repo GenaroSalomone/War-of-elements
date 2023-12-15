@@ -4,7 +4,7 @@
 
 The **War of Elements** project is the culmination of the "Computer Analyst" course, serving as the final assignment for the Computer Analyst degree at the National University of Río Cuarto. This documentation provides a comprehensive overview of the project, detailing its purpose, functionality, and implementation.
 
-##Step by step to run the application
+## Step by step to run the application
 
 Here is a step-by-step guide on how to set up the project:
 
